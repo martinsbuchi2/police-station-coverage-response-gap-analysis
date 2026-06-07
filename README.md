@@ -55,12 +55,3 @@ This project analyses the spatial coverage of Edmonton's existing police station
 | `Police_Station_Coverage_and_Response_Gap_Analysis.pdf` | Exported map layout |
 | `reference_layout.png` | Print layout reference image |
 
-## Notes
-
-- All layers use EPSG:3776 (NAD83(CSRS) / Alberta 3TM ref merid 114W).
-- This project is the baseline analysis; it is designed to be read alongside the Optimal New Police Station Siting project in the same folder.
-- Buffer radius reflects a standard response distance threshold; this should be validated against Edmonton Police Service response time standards for operational use.
-
-## Note
-The following files exceed GitHub's 100MB limit and are excluded from this repo:
-- `properties_coverage_tagged.gpkg`
